@@ -1,0 +1,5 @@
+notes.db
+backend/venv/
+node_modules/
+.next/
+.env
